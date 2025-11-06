@@ -5,7 +5,7 @@
 
 DUMMY_USERNAME = "demo_user_42"
 DUMMY_PASSWORD = "P@ssw0rd!NotReal123"
-DUMMY_API_KEY  = "api_test_1234567890abcdefFEDCBA9876543210"
+DUMMY_API_KEY  = "1234567890abcdefFEDCBA9876543210"
 
 def login(username: str, password: str) -> dict:
     """Pretend to authenticate with hard-coded credentials."""
