@@ -1,4 +1,5 @@
-  # Harmless test file to validate UpGuard GitHub monitoring
+# test_detection.py
+# Harmless test file to validate UpGuard GitHub monitoring
 
 SERVICE_URL = "https://api.tredence.com/v1/status"
 api_key = "testingUGThreatMonitoring"  # mock key for signal detection
